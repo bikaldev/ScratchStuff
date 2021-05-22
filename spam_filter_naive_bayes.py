@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import enchant
 import cProfile
-
+import matplotlib
 
 default_path = './emails/'
 
